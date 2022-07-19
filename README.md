@@ -2,7 +2,7 @@
 <ul>
   
   <li>
-    <a href = "https://manuel.cillero.es/doc/metodologia/metrica-3">Manuel Cillero</a>
+    <a href="https://manuel.cillero.es/doc/metodologia/metrica-3">Manuel Cillero</a>
   </li>
   
   <li>
