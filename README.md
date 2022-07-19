@@ -40,8 +40,6 @@
     <a href="https://drive.google.com/drive/folders/169rtHTPdwTRpozgk27SFWO3ISyrbtpPC?usp=sharing">Kanban manual - Trello</a>
   </li>
 
-  <li>
-    <a href="https://drive.google.com/drive/folders/11j79kmIHDnOc3v8-vkomVW4sDrL9HIOI?usp=sharing">Infographic SCRUM</a>
-  </li>
-  
 </ul>
+
+<img src="img/picture.jpg" alt="Infographic SCRUM">
